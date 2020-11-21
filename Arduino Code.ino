@@ -12,7 +12,7 @@ const int buzzer = 7; // buzzer to arduino pin 7
 
 int removeProductButton = 2;    //remove product
 int generateBillButton = 3;   //generate bill
-boolean removeItem = false;   // boolean removeItem = false;
+boolean removeItem = false;
 
 
 String wifiName = "V40 ThinQ_3650";
